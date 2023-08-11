@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers">
+        <item>Phim hoạt hình</item>
+        <item>Web cho người già</item>
+        <item>Thế giới động vật</item>
+        <item>Kênh học tập</item>
+        <item>Thông minh</item>
+        <item>Siêng năng</item>
+        <item>Ngu dốt</item>
+        <item>Có cái nịt</item>
+        <item>Người cổ đại</item>
+        <item>NTN vlog</item>
+        <item>Fan MU</item>
+        <item>Đạt villa</item>
+    </string-array>
+    <string-array name="questions">
+        <item>Câu hỏi 1: Pỏn húp .com là website gì??</item>
+        <item>Câu hỏi 2: Huấn rose: "Cần cù thì bù ... "</item>
+        <item>Câu hỏi 3: "Hang động sâu nhất thế giới có gì?"</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="orange">#FF5722</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">demobtl</string>
+    <style name="Base.Theme.Demobtl" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Demobtl" parent="Base.Theme.Demobtl"/>
+</resources>

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_progressbar_time.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\progressbar_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_btn_start.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\btn_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_player_answer_background_hide.png.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\player_answer_background_hide.png"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_btn_radius.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\btn_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_player_order_question.png.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\player_order_question.png"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_bg_circle_anim.png.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\bg_circle_anim.png"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_btn_answer.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\btn_answer.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_player_question_background.png.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\player_question_background.png"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_button_play.png.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\button_play.png"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_icon_logo_app.png.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\icon_logo_app.png"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.demobtl.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.demobtl.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_home_background.png.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_player_background.jpg.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\player_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\drawable_player_answer_background_normal.png.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\drawable\\player_answer_background_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\lehie\\.gradle\\daemon\\8.0\\com.example.demobtl.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]
